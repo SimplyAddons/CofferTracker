@@ -4,7 +4,7 @@ Coffer Tracker is an addon that tracks how many [Restored Coffer Keys](https://w
 
 The addon will display an info box on your screen, which you can click-drag to move around. Hovering over the info box, will display a tooltip with helpful command information.
 
-![image](https://github.com/user-attachments/assets/c5725b0f-73cc-4d50-baad-07e9046609c5)
+![image](https://github.com/user-attachments/assets/56d4e605-f571-4bda-9090-9123c7e67ff6)
 
 ## Options
 
