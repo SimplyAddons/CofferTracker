@@ -2,7 +2,8 @@
 ## Title: Coffer Tracker
 ## Notes: Track how many relic coffer keys you have received from opening loot boxes.
 ## Author: SimplyAddons
-## Version: 1.0.0
+## Version: @project-version@
 ## SavedVariables: CofferTracker
+## X-Curse-Project-ID: 1109504
 
 CofferTracker.lua
