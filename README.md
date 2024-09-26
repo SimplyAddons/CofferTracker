@@ -4,6 +4,8 @@ Coffer Tracker is an addon that tracks how many [Restored Coffer Keys](https://w
 
 The addon will display an info box on your screen, which you can click-drag to move around. Hovering over the info box, will display a tooltip with helpful command information.
 
+I created this addon as a personal tool to help me avoid losing out on keys by opening too many loot boxes each week across my characters. Maybe others will find it just as useful.
+
 ![image](https://github.com/user-attachments/assets/56d4e605-f571-4bda-9090-9123c7e67ff6)
 
 ## Options
